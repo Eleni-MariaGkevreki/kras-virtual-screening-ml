@@ -1,0 +1,9 @@
+rdkit
+scikit-learn
+pandas
+numpy
+matplotlib
+scipy
+xgboost
+imbalanced-learn
+openpyxl
